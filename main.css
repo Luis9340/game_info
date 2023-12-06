@@ -90,18 +90,6 @@ h2 {
     margin-bottom: 1em;
 }
 
-main {
-    background-color: ;
-}
-
-section {
-    background-color: ;
-}
-
-article {
-    background-color: ;
-}
-
 .articles {
     display: flex;
     flex-wrap: wrap;
